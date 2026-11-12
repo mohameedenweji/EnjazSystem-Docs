@@ -1,0 +1,17 @@
+# Enjaz System (منظومة إنجاز)
+
+> Enjaz System is a Libyan, fully Arabic point-of-sale (POS), inventory, purchasing and accounting system for retail shops, supermarkets and wholesale distributors. It is a Windows desktop system (.NET 8, WPF) with a Microsoft SQL Server database, and works offline on the shop's local network. Current version: 1.3.0.
+
+منظومة إنجاز: منظومة ليبية عربية لإدارة المبيعات ونقاط البيع والمخزون والمشتريات والحسابات للمحلات والسوبرماركت وتجار الجملة.
+
+Key facts:
+- Two programs on one database: Admin (items, purchases, customers, suppliers, chart of accounts, journal entries, vouchers, shift posting, reports, settings, users) and POS (cashier screen, shifts, held invoices, discounts, refunds, wholesale screen).
+- Perpetual inventory with weighted average cost; cost of goods sold taken from the item card cost at sale time.
+- Sales are posted to the ledger per POS shift; purchases per invoice; all automatic journal entries can be un-posted and edited.
+- Purchases in USD or any currency with a per-invoice exchange rate; ledger and stock value in Libyan dinars (LYD).
+- Payments: cash, card, credit with credit limit, mixed, local e-payment methods with fees.
+- Reports: sales, purchases, inventory, trial balance, income statement, profit & loss, account statements.
+
+## Docs
+- [Full knowledge file (Arabic, with English summary)](https://raw.githubusercontent.com/mohameedenweji/EnjazSystem-Docs/main/llms-full.txt): what Enjaz is, screens, accounting logic, data model, currencies, permissions, version history, FAQ, glossary, and step-by-step guides.
+- [README](https://github.com/mohameedenweji/EnjazSystem-Docs/blob/main/README.md)

@@ -1,0 +1,7 @@
+title: منظومة إنجاز — Enjaz System
+description: منظومة ليبية عربية لإدارة المبيعات ونقاط البيع والمخزون والمشتريات والحسابات. Libyan Arabic POS, inventory and accounting system.
+lang: ar
+theme: jekyll-theme-primer
+include:
+  - llms.txt
+  - llms-full.txt
